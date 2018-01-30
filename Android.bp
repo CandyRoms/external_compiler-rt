@@ -36,7 +36,6 @@ cc_library_static {
 
     cflags: [
         "-Wno-unused-parameter",
-        "-Werror",
     ],
 
     arch: {
@@ -234,7 +233,6 @@ cc_library {
 
     cflags: [
         "-Wno-unused-parameter",
-        "-Werror",
     ],
 
     arch: {
